@@ -547,6 +547,11 @@
             "title": "NGX-YOUI",
             "url": "https://ngx-youi.github.io/NGX-YOUI/"
           }
+          "ngx-youi": {
+            "desc": "NGX Cookie Service is an Angular Library that can be used to read, set and delete browser cookies",
+            "title": "NGX Cookie Service",
+            "url": "https://github.com/stevermeister/ngx-cookie-service"
+          }
         }
       }
     }
